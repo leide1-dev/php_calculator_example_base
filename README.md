@@ -1,1 +1,1 @@
-# php_calculator_example_base
+Calculator example using PHP.
